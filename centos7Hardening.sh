@@ -1,11 +1,8 @@
 #!/bin/bash
 
 #SCRIPT BY: BIMBO Sandra PEDRo
-
-
+#August 2020
 #CIS - CentOS 7 Benchmark (v2.1.1) - Updated by Serge
-#Copyright (c) 2020, Ross Hamilton. All rights reserved.
-#Licenced under the BSD Licence See LICENCE file for details
 
 
 ########################################################################
