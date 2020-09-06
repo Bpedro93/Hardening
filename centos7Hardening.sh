@@ -2,7 +2,7 @@
 
 #SCRIPT BY: BIMBO Sandra PEDRo
 #August 2020
-#CIS - CentOS 7 Benchmark (v2.1.1) - Updated by Serge
+#CIS - CentOS 7 Benchmark (v2.1.1) 
 
 
 ########################################################################
